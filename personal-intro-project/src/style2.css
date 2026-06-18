@@ -1,0 +1,22 @@
+main{
+    height:800px;
+    border:dashed 1px green;
+}
+
+footer{
+    height:200px;
+    border: dashed 1px blue;
+}
+
+.row > div{
+    border:dashed 1px red;
+}
+
+.dd_tbdr{
+    border:dashed 1px red;
+}
+
+.nav > .nav-item > a{
+padding: 50px;
+text-decoration:none;
+}
